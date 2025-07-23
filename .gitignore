@@ -1,0 +1,7 @@
+# Robot Framework output
+*.log
+*.html
+*.xml
+output/
+screenshots/
+__pycache__/
